@@ -1,0 +1,11 @@
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\bin\Debug\Introdução a Robotica.exe.config
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\bin\Debug\Introdução a Robotica.exe
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\bin\Debug\Introdução a Robotica.pdb
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução a Robotica.csprojAssemblyReference.cache
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução_a_Robotica.Properties.Resources.resources
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução a Robotica.csproj.GenerateResource.cache
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução a Robotica.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução a Robotica.exe
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução a Robotica.pdb
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução_a_Robotica.Principal.resources
+C:\Users\Alisson\OneDrive\Workspace\Programação C#\Robotica\Introdução a Robotica\obj\Debug\Introdução_a_Robotica.TransformadaView.resources
